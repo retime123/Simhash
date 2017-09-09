@@ -13,7 +13,6 @@ from Tools.db1 import *
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-'''根据数据库地址下载文件生成64位哈希，删除文件。去重==>海明距离为3'''
 
 # 测试settings:文件路径，注意不要加'/'
 driver_path = './report/1'
@@ -33,11 +32,10 @@ def _hashfunc(x):
 
 
 class Simhash(object):
-    '''算法主程序转载于github上https://github.com/leonsim/simhash/blob/master/tests/test_simhash.py'''
 
     def __init__(self, value, f=64, reg=r'[\w\u4e00-\u9fcc]+', hashfunc=None):
         """
-        value是文章内容
+        value是basestring并描述在解析的字符串中被认为是一个字母
         `f` is the dimensions of fingerprints
         `reg` is meaningful only when `value` is basestring and describes
         what is considered to be a letter inside parsed string. Regexp
@@ -108,8 +106,7 @@ class Simhash(object):
 
     def distance(self, another):
         """
-        计算海明距离，海明距离在二进制中表现为 xor，数出1的个数i
-        不适用于本程序pass
+        计算海明距离，海明距离在二进制中表现为 xor，数出1的个数
         """
         assert self.f == another.f
         x = (self.value ^ another.value) & ((1 << self.f) - 1)
@@ -120,7 +117,7 @@ class Simhash(object):
         return ans
 
 
-# 计算海明距离
+# 计算海明距离：有多少是相同的
 def hammingDis(com1, com2):
     t1 = '0b' + com1
     t2 = '0b' + com2
@@ -146,7 +143,7 @@ def news_process(file_path):
     return news.decode("utf-8")
 
 def num10_to2_sys(num):
-    '''10进制转成2进制，不足64位的0补'''
+    '''10进制转成2进制'''
     num1 = None
     if isinstance(num, str):
         num1 = bin(int(num))
@@ -157,6 +154,9 @@ def num10_to2_sys(num):
     num2 = num1.replace('0b', '')
     if len(num2) < 64:
         num2 = "0"*(64 - len(num2)) + num2
+    elif len(num2) != 64:
+        print u'超出64位[error...]'
+        return
     return num2
 
 # 查询数据库添加哈希值
@@ -202,6 +202,14 @@ def sql_select():
                             fp.write('=' * 30 + '\n')
                         is_error = True
                         break
+                else:
+                    with open('error_hash.log', 'a+') as fp:
+                        now_time2 = time.strftime('%Y-%m-%d %H:%M', time.localtime(time.time()))
+                        fp.write(u'生成哈希失败...{}'.format(now_time2) + '\n')
+                        fp.write(ReportCode+ u'超出64位哈希...' + '\n')
+                        fp.write('=' * 30 + '\n')
+                    is_error = True
+                    break
         # 记录
         with open('hash_select.log', 'w') as fp:
             now_time2 = time.strftime('%Y-%m-%d %H:%M', time.localtime(time.time()))
@@ -224,13 +232,13 @@ def sql_select_simhash():
         # 全部
         content = ''
     print u'去重记录', content
-    # 所有数据，排序：避免每次查询数据库
+    # 所有数据，排序
     sqlstr0 = "SELECT ReportCode, RepeatCode, Simhash FROM Report_ReportBaseInfo_Xbrl_copy3 WHERE Simhash1 is NOT NULL order by ReportCode asc"
     result0 = execute_SqlServer_select(sqlstr0)
 
     # 当前所有没有处理的，排序
     try:
-        sqlstr1 = "SELECT ReportCode, RepeatCode, Simhash FROM Report_ReportBaseInfo_Xbrl_copy3 WHERE Simhash1 is NOT NULL AND ReportCode > '{}' order by ReportCode asc".format(content)
+        sqlstr1 = "SELECT TOP 200 ReportCode, RepeatCode, Simhash FROM Report_ReportBaseInfo_Xbrl_copy3 WHERE Simhash1 is NOT NULL AND ReportCode > '{}' order by ReportCode asc".format(content)
         result = execute_SqlServer_select(sqlstr1)
     except:
         return
@@ -299,8 +307,8 @@ def sql_select_simhash():
 # S3用法--- 下载文件txt
 def S3(path):
     # Client初始化
-    access_key = ''
-    secret_key = ''
+    access_key = 'AKIAOFQU43PDALLGLKSQ'
+    secret_key = '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'
     session = Session(access_key, secret_key, region_name='cn-north-1')
     s3_client = session.client('s3')
 
@@ -352,7 +360,7 @@ def test():
 
 if __name__ == '__main__':
     sql_select()
-    sql_select_simhash()
+    # sql_select_simhash()
     # test()
 
 
