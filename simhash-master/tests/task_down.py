@@ -18,7 +18,7 @@ from boto3 import Session
 
 # Client初始化
 access_key = ''
-secret_key = 'FFpf'
+secret_key = ''
 
 session = Session(access_key, secret_key, region_name='cn-north-1')
 s3_client = session.client('s3')

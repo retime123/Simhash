@@ -15,10 +15,12 @@ sys.setdefaultencoding('utf-8')
 
 
 # 测试settings:文件路径，注意不要加'/'
-driver_path = './report/1'
+driver_path = './report/17'
 # 海明距离
 diatance = 3
 
+# 14号文件夹出现不同的结果
+'''抽取核心算法，python2测试文本，有些情况下算出来的哈希值，跟直接调用的值不相等！！！'''
 
 if sys.version_info[0] >= 3:
     basestring = str
@@ -154,9 +156,21 @@ def num10_to2_sys(num):
     num2 = num1.replace('0b', '')
     if len(num2) < 64:
         num2 = "0"*(64 - len(num2)) + num2
-    elif len(num2) != 64:
+    elif len(num2) > 64:
         print u'超出64位[error...]'
         return
+    return num2
+
+def num2_to10_sys(num):
+    '''10进制转成2进制'''
+    num1 = None
+    if isinstance(num, str):
+        num1 = int(num, 2)
+    elif isinstance(num, long):
+        num1 = int(str(num), 2)
+    elif isinstance(num, int):
+        num1 = int(str(num), 2)
+    num2 = str(num1).replace('L', '')
     return num2
 
 # 查询数据库添加哈希值
@@ -171,8 +185,8 @@ def sql_select():
     except:
         # 全部
         content = ''
-    print u'添加哈希记录', content
-    sqlstr1 = "SELECT ReportOriginal, ReportCode FROM Report_ReportBaseInfo_Xbrl_copy3 WHERE Simhash1 is NULL AND ReportCode > '{}' order by ReportCode asc".format(content)
+    print u'添加哈希,记录', content
+    sqlstr1 = "SELECT TOP 2000 ReportOriginal, ReportCode FROM Report_ReportBaseInfo_Xbrl_copy3 WHERE Simhash1 is NULL AND ReportCode > '{}' order by ReportCode asc".format(content)
     result = execute_SqlServer_select(sqlstr1)
     is_error = False
     for ReportOriginal, ReportCode in result:
@@ -231,14 +245,14 @@ def sql_select_simhash():
     except:
         # 全部
         content = ''
-    print u'去重记录', content
+    print u'去重,记录', content
     # 所有数据，排序
     sqlstr0 = "SELECT ReportCode, RepeatCode, Simhash FROM Report_ReportBaseInfo_Xbrl_copy3 WHERE Simhash1 is NOT NULL order by ReportCode asc"
     result0 = execute_SqlServer_select(sqlstr0)
 
     # 当前所有没有处理的，排序
     try:
-        sqlstr1 = "SELECT TOP 200 ReportCode, RepeatCode, Simhash FROM Report_ReportBaseInfo_Xbrl_copy3 WHERE Simhash1 is NOT NULL AND ReportCode > '{}' order by ReportCode asc".format(content)
+        sqlstr1 = "SELECT ReportCode, RepeatCode, Simhash FROM Report_ReportBaseInfo_Xbrl_copy3 WHERE Simhash1 is NOT NULL AND ReportCode > '{}' order by ReportCode asc".format(content)
         result = execute_SqlServer_select(sqlstr1)
     except:
         return
@@ -359,35 +373,34 @@ def test():
 
 
 if __name__ == '__main__':
-    sql_select()
+    # sql_select()
     # sql_select_simhash()
-    # test()
+    test()
 
 
-    # content1 = None
-    #
-    # with open(r'./report/1/300005408315_20170801_2B0790.txt','r') as f:
+    # # 这3个算出来的哈希值一样，可是内容不一样！！===>>>修改核心算法，减掉排序sorted，效果上去了
+    # with open(r'./report/17/300005413903_20170802_EA4209.txt', 'r', encoding='utf8') as f:
     #     content1 = f.read()
+    #     # print content1
+    # with open(r'./report/17/300005413399_20170802_D1F391.txt', 'r', encoding='utf8') as f2:
+    #     content2 = f2.read()
+    #     # print content2
+    # with open(r'./report/17/300005409773_20170801_5A4B55.txt', 'r', encoding='utf8') as f3:
+    #     content3 = f3.read()
+    #     # print content3
     #
-    # content2 = None
+    # print (type(content1))
+    # # simhash1 = Simhash(content1.decode("utf8"))
+    # # # simhash1 = Simhash('1'.decode("utf8"))
+    # # simhash2 = Simhash(content2.decode("utf8"))
+    # # simhash3 = Simhash(content3.decode("utf8"))
+    # simhash1 = Simhash(content1)
+    # # simhash1 = Simhash('1'.decode("utf8"))
+    # simhash2 = Simhash(content2)
+    # simhash3 = Simhash(content3)
     #
-    # with open(r'./data/dir_copy/300000009230_20170415_2EC63C - 副本.txt', 'r') as f:
-    #     content2 = f.read()
-    #
-    # print type(content1)
-    # simhash1 = Simhash(content1.decode("utf8"))
-    # simhash2 = Simhash(content2.decode("utf8"))
-    #
-    # # print simhash1.distance(simhash1)
-    #
-    # print simhash1.value,"--","----", simhash2.value
-    #
-    # print simhash1.distance(simhash2)
-    # print type(simhash1.value)
-    # print int(simhash1.value)
-    #
-    # print num10_to2_sys(simhash1.value)
-    #
-    # print hammingDis(num10_to2_sys(simhash1.value), num10_to2_sys(simhash2.value))
+    # print (simhash1.value, "-----", simhash2.value, '====', simhash3.value)
+    # print (simhash1.value)
+    # print ('海明', simhash1.distance(simhash2))
 
 

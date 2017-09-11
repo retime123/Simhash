@@ -3,6 +3,8 @@
 from Tools import db
 from Tools import db1
 
+'''从正式库里面抽取数据到测试库'''
+
 
 def sql_select():
     sqlstr="SELECT ReportDate,ReportSource,ReportOriginalTitle,ReportTitle,ReportSummary,ReportOriginal,ResearchInstitute,ReportSize, ReportPage,FileType,FileName,ReportFileName  FROM Report_ReportBaseInfo_Xbrl WHERE ReportDate >= '2017-08-01' and ReportDate < '2017-09-01'"
@@ -45,7 +47,6 @@ def sql_insert4(params):
             print("插入成功...{}".format(sqlstr))
         except Exception as e:
             print('插入失败 {} SQL语句: {}'.format(e, sqlstr))
-
 
 
 if __name__ == '__main__':

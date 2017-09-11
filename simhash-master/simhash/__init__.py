@@ -1,3 +1,4 @@
+# coding: utf-8
 # Created by 1e0n in 2013
 from __future__ import division, unicode_literals
 
@@ -67,6 +68,8 @@ class Simhash(object):
     def build_by_text(self, content):
         features = self._tokenize(content)
         features = {k:sum(1 for _ in g) for k, g in groupby(sorted(features))}
+        # 不排序的
+        # features = {k: sum(1 for _ in g) for k, g in groupby(features)}
         return self.build_by_features(features)
 
     def build_by_features(self, features):

@@ -1,0 +1,721 @@
+Citi Research
+Equities
+03 Aug 2017 01:48:03 ET│ 13 pages Application Software
+North America │ United States
+Citrix Systems, Inc. (CTXS)
+Uneventful 2Q17; Numbers set up still looks compelling despite
+headline noise
+• No major surprises in Q2 results – License/product declined 4% y/y (Networking -
+5%, Desktop -3%) though did face a tougher comp. Maintenance revenue
+accelerated to +6% y/y from +3% y/y in Q1 on continued strong uptake of new
+maintenance program (higher pricing). Desktop highlights included strong DD
+license growth internationally offset by higher subscription uptake in U.S. impacting
+license compare. Networking saw DD bookings growth in enterprise ADC and cloud
+service customers with Bytemobile headwind offsetting these. Total revenue of
+$693M was in-line with guidance and consistent with preannouncement.
+• Margins lower than expected; Tax helps EPS – 2Q17 operating margins of
+26.1% missed our/street by 220 bps on higher opex (S&M grew 9% vs. our 6%).
+CEO Henshall noted opex is running ‘hot in 1H’ and they are taking a hard look
+here. We expect given recent management change, expenses will not get out of
+control. EPS was $0.01/$0.04 better than us/street but tax drove $0.09 of this.
+• Estimate Change
+• Target Price Change
+Buy 1
+Price (02 Aug 17 16:00)
+US$79.11
+Target price
+US$96.00
+from US$94.00
+Expected share price return 21.4%
+Expected dividend yield 0.0%
+Expected total return 21.4%
+Market Cap
+US$11,957M
+Price Performance
+(RIC: CTXS.O, BB: CTXS US)
+• Little change in outlook – Revenue guidance for FY17 was slightly narrowed with
+slightly more Q3 to Q4 seasonality while EPS was maintained. Embedded in the
+outlook is much slower opex growth than 1H. We reflect higher Q4 seasonality and
+lower Q4 opex growth in our model. Our headline revenue/EPS estimates don’t
+change materially and still look conservative given much easier 2H comps.
+Prepared for Rong Lu (research email)
+• Stock View – We think recent headlines of CEO transition, speculation on sales
+process and uncertainty around subscription transition have created more risk to a
+story that had been largely stable for the past ~6 Qs. That said, we find it hard to
+ignore that CTXS is one of cheapest stocks in our group and faces favorable set-up
+the next few Qs with: 1) easier comps 2) maintenance price increases driving
+revenue reacceleration; and 3) likely return of Netscaler Cloud SP spend. Shares
+trade at just 10.4X our FY18 EV/FCFF, well below all infrastructure/legacy peers.
+PT moves to $96 (13x FY18 FCFF of $1.08B) on slightly higher FCF/billings.
+EPS (US$) Q1 Q2 Q3 Q4 FY FC Cons
+2016A 1.00A 1.00A 1.08A 1.38A 4.45A 5.32A
+2017E 0.97A 1.03A 1.05E 1.58E 4.63E 4.64E
+Previous 0.97A 1.02E 1.15E 1.49E 4.62E na
+2018E 1.11E 1.20E 1.21E 1.67E 5.20E 5.07E
+Previous 1.13E 1.27E 1.29E 1.59E 5.29E na
+2019E 1.30E 1.39E 1.38E 1.87E 5.94E 5.60E
+Previous 1.33E 1.47E 1.48E 1.80E 6.08E na
+Source: Company Reports and dataCentral, Citi Research. FC Cons: First Call Consensus.
+See Appendix A-1 for Analyst Certification, Important Disclosures and non-US research analyst disclosures.
+Walter H Pritchard, CFA AC
++1-415-951-1770
+walter.h.pritchard@citi.com
+Tyler Radke
++1-415-951-1660
+tyler.radke@citi.com
+Citi Research is a division of Citigroup Global Markets Inc. (the "Firm"), which does and seeks to do business with companies covered in its research reports. As a
+result, investors should be aware that the Firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only
+a single factor in making their investment decision. Certain products (not inconsistent with the author's published research) are available only on Citi's portals.
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+Prepared for Rong Lu (research email)
+CTXS.O: Fiscal year end 31-Dec
+Price: US$79.11; TP: US$96.00; Market Cap: US$11,957m; Recomm: Buy
+Profit & Loss (US$k) 2015 2016 2017E 2018E 2019E Valuation ratios 2015 2016 2017E 2018E 2019E
+Sales revenue 3,275,594 2,736,080 2,827,725 3,023,823 3,187,829 PE (x) 18.2 17.8 17.1 15.2 13.3
+Cost of sales -614,364 -402,711 -415,406 -413,706 -440,497 PB (x) 6.1 4.7 6.0 5.7 5.2
+Gross profit 2,661,230 2,333,369 2,412,319 2,610,117 2,747,332 EV/EBITDA (x) 9.0 9.7 10.1 9.7 9.0
+Gross Margin (%) 81.2 85.3 85.3 86.3 86.2 FCF yield (%) 6.9 7.4 7.1 9.3 10.4
+EBITDA (Adj) 1,273,254 1,140,586 1,066,762 1,110,988 1,164,834 Dividend yield (%) 0 0 0 0 0
+EBITDA Margin (Adj) (%) 38.9 41.7 37.7 36.7 36.5 Payout ratio (%) 0 0 0 0 0
+Depreciation -188,977 -215,629 -129,280 -122,446 -119,068 ROE (%) 15.4 20.6 20.3 33.3 37.1
+Amortisation -239,915 -70,494 -75,147 -41,191 -29,509 Cashflow (US$k) 2015 2016 2017E 2018E 2019E
+EBIT (Adj) 844,131 854,463 862,335 947,351 1,016,257 EBITDA 778,977 848,464 871,655 1,000,149 1,089,198
+EBIT Margin (Adj) (%) 25.8 31.2 30.5 31.3 31.9 Working capital 211,723 149,143 81,082 225,059 207,809
+Net interest -32,478 -28,263 -25,350 -24,816 -23,101 Other 43,848 54,143 -2,821 -53,758 -67,124
+Associates 0 0 0 0 0 Operating cashflow 1,034,548 1,051,750 949,916 1,171,450 1,229,883
+Non-op/Except -5,730 -4,131 1,185 -2,000 -2,000 Capex -160,825 -134,170 -91,636 -111,881 -117,950
+Pre-tax profit 311,877 529,947 643,063 809,696 915,519 Net acq/disposals -256,907 -13,242 0 0 0
+Tax 7,484 -57,915 -183,755 -178,133 -201,414 Other 193,317 -336,792 0 0 0
+Extraord./Min.Int./Pref.div. 0 0 0 0 0 Investing cashflow -224,415 -484,204 -91,636 -111,881 -117,950
+Reported net profit 319,361 472,032 459,308 631,563 714,105 Dividends paid 0 0 0 0 0
+Net Margin (%) 9.7 17.3 16.2 20.9 22.4 Financing cashflow -691,451 -38,030 -900,000 -800,000 -800,000
+Core NPAT 695,070 699,650 704,863 745,826 801,534 Net change in cash 118,682 529,516 -41,720 259,568 311,933
+Per share data 2015 2016 2017E 2018E 2019E Free cashflow to s/holders 873,723 917,580 858,280 1,059,568 1,111,933
+Reported EPS ($) 2.00 3.01 3.02 4.40 5.29
+Core EPS ($) 4.35 4.45 4.63 5.20 5.94
+DPS ($) 0 0 0 0 0
+CFPS ($) 6.47 6.70 6.24 8.16 9.11
+FCFPS ($) 5.47 5.84 5.64 7.38 8.24
+BVPS ($) 12.96 16.92 13.14 13.83 15.34
+Wtd avg ord shares (k) 157,201 153,607 149,321 140,571 131,956
+Wtd avg diluted shares (k) 159,777 157,050 152,174 143,554 134,969
+Growth rates 2015 2016 2017E 2018E 2019E
+Sales revenue (%) 4.2 -16.5 3.3 6.9 5.4
+EBIT (Adj) (%) 19.7 1.2 0.9 9.9 7.3
+Core NPAT (%) 23.0 0.7 0.7 5.8 7.5
+Core EPS (%) 30.8 2.4 4.0 12.2 14.3
+Balance Sheet (US$k) 2015 2016 2017E 2018E 2019E
+Cash & cash equiv. 871,370 1,684,029 1,431,834 1,691,403 2,003,336
+Accounts receivables 669,276 725,940 776,756 815,594 856,373
+Inventory 10,521 12,522 13,429 13,729 14,029
+Net fixed & other tangibles 659,383 654,005 512,656 502,091 500,972
+Goodwill & intangibles 2,246,140 2,194,803 1,762,344 1,721,153 1,691,644
+Financial & other assets 1,024,748 1,118,928 1,207,642 1,235,432 1,267,983
+Total assets 5,481,438 6,390,227 5,704,660 5,979,402 6,334,338
+Accounts payable 95,396 84,057 86,411 91,183 95,174
+Short-term debt 0 1,348,156 30,000 30,000 30,000
+Long-term debt 1,324,992 0 1,367,092 1,367,092 1,367,092
+Provisions & other liab 2,087,604 2,349,287 2,313,571 2,600,786 2,878,234
+Total liabilities 3,507,992 3,781,500 3,797,074 4,089,061 4,370,500
+Shareholders' equity 1,973,446 2,608,727 1,907,587 1,890,341 1,963,837
+Minority interests 0 0 0 0 0
+Total equity 1,973,446 2,608,727 1,907,587 1,890,341 1,963,837
+Net debt (Adj) 453,622 -335,873 -34,742 -294,311 -606,244
+Net debt to equity (Adj) (%) 23.0 -12.9 -1.8 -15.6 -30.9
+For definitions of the items in this table, please click here.
+2
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+Figure 1. CTXS 2Q17 Results vs. Expectations
+Financial Results
+Citi
+Surprise
+Research Consensus Reported vs. Citi Comments
+2Q17 Total revenue $697 $691 $693 -0.6% Revenue in-line with preannouncement
+- Product license $214 $214 $211 -1.4% License down 5% (relatively balanced declines in Networking vs. WSS)
+- License update $411 $404 $409 -0.6% Accelerated from Q1 levels. Q3 should see more uptake of new pricing
+- Online services $41 $41 $42 0.4% Showed acceleration
+- Technical services $31 $32 $32 3.4%
+2Q17 Desktop Solutions $420 $419 $421 0.2% License -3% (on +2% comp)… Int'l grew DD Y/Y
+2Q17 Datacenter $202 $199 $197 -2.7% License -5% (on +15% comp).. Bytemobile a $8M license headwind
+Operating income $213 $196 $181 -15.2% Opex running higher than expected (S&M grew 9% vs. our 6%)
+2Q17 Operating margin 30.6% 28.4% 26.1% -4.5% Higher opex and in-line revenue
+2Q17 EPS $1.02 $0.99 $1.03 $0.01 Tax drove $0.09 of beat
+Source: Citi Research, Factset
+Figure 2. Changes to our Estimates
+Financial Outlook
+Source: Citi Research
+Guidance
+Citi
+(Before)
+Citi
+(After)
+3Q17 Total revenue $685-$695 $702 $689 Guidance for 2H looks conservative. More 3Q->4Q seasonality
+- Product license -- $215 $203 We model license -2% y/y... Comps get easier
+- License update -- $414 $414 Maintenance estimates unchanged. Subscription advantage conversion
+- SaaS -- $42 $42
+- Technical services -- $31 $31
+3Q17 Operating income -- $221 $200 Slightly higher opex
+3Q17 Operating margin -- 31.5% 29.0%
+3Q17 EPS $1.02-$1.05 $1.15 $1.05 Guidance looks conservative… expecting more 4Q profitability vs. 3Q
+FY17 Total revenue $2810-$2830 $2,850 $2,857
+- Product license -- $891 $875 We model product license -1%. Room for upside here particularly in 4Q
+- License update -- $1,656 $1,661 Higher S/A conversion drives higher revenue in Q4
+- Online services -- $167 $167
+- Technical services -- $124 $125
+FY17 Operating income -- $882 $862
+FY17 Operating margin -- 31.0% 30.2%
+FY17 EPS $4.60-$4.65 $4.62 $4.63
+Comments
+Prepared for Rong Lu (research email)
+Figure 3. CTXS Relevant Comps
+Source: Citi Research, Factset
+Target 8/3/2017 Market Enterprise EV / Rev P/E EV / FCF
+Ticker Rating Price Price Cap Cash Debt Value CY16 CY17 CY18 CY16 CY17 CY18 CY16 CY17 CY18
+CTXS 1 $96 $79.11 $12,135 $2,664 $1,348 $10,819 4.0x 3.8x 3.6x 17.8x 17.1x 15.2x 12.0x 12.8x 10.1x
+CA 2 $34 $30.85 $12,995 $2,771 $2,791 $13,015 3.2x 3.1x 3.1x 12.5x 12.5x 12.1x 12.5x 11.6x 11.3x
+CHKP 2 $112 $105.34 $17,217 $3,669 $0 $13,548 7.8x 7.2x 6.7x 22.3x 20.2x 18.2x 15.7x 14.4x 13.4x
+INTU 2 $141 $136.53 $34,981 $1,593 $500 $33,888 6.9x 6.4x 5.9x 33.9x 29.5x 25.7x 32.0x 22.7x 20.0x
+MSFT 2 $74 $72.26 $557,884 $132,981 $86,194 $511,097 5.4x 5.1x 4.7x 23.7x 22.3x 22.1x 15.8x 13.7x 12.6x
+ORCL 2 $51 $49.77 $205,883 $66,078 $57,909 $197,714 5.3x 5.1x 4.8x 18.5x 17.6x 16.2x 17.3x 16.4x 15.7x
+RHT 1 $113 $98.35 $17,453 $2,133 $746 $16,066 6.8x 5.8x 5.1x 44.6x 37.3x 31.4x 22.8x 20.6x 17.7x
+SAP-DE 1 $105 $89.63 $110,110 $4,826 $8,294 $113,578 5.1x 4.8x 4.5x 23.1x 21.5x 19.9x 31.4x NA 28.5x
+VMW 1 $124 $92.11 $37,620 $8,612 $1,500 $30,508 4.6x 4.3x 4.3x 22.6x 20.9x 18.7x 19.4x 13.7x 12.6x
+Median 5.3x 5.1x 4.7x 22.6x 20.9x 18.7x 17.3x 14.1x 13.4x
+Mean 5.5x 5.1x 4.7x 24.3x 22.1x 20.0x 19.9x 15.7x 15.7x
+3
+4
+Prepared for Rong Lu (research email)
+Figure 4. CTXS Income Statement
+Source: Citi Research, Company Reports
+F12A F13A F14A F15A Mar 16A Jun 16A Sep 16A Dec 16A F16A Mar 17A Jun 17A Sep 17E Dec 17E F17E F18E F19E
+Revenue $2,586,136 $2,918,431 $3,142,855 $3,275,594 $658,773 $673,987 $668,736 $734,584 $2,736,080 $662,677 $693,227 $689,424 $782,398 $2,827,725 $3,023,823 $3,187,829
+% Change Y/Y 17.2% 12.8% 7.7% 4.2% -13.4% -15.4% -17.8% -18.8% -16.5% 0.6% 2.9% 3.1% 6.5% 3.3% 6.9% 5.4%
+% Change Q/Q -27.2% 2.3% -0.8% 9.8% -9.8% 4.6% -0.5% 13.5%
+Core CTXS Revenue $2,377,931 $2,563,055 $2,646,194 $658,773 $673,987 $668,736 $734,584 $2,736,080 $662,677 $693,227 $689,424 $782,398 $2,827,725 $3,023,823 $3,187,829
+% Change Y/Y 7.8% 3.2% 7.4% 4.7% 3.0% -0.7% 3.4% 0.6% 2.9% 3.1% 6.5% 3.3% 6.9% 5.4%
+Cost of revenues (322,001) (402,382) (471,234) (480,241) (85,260) (92,259) (82,806) (86,968) (347,293) (88,778) (96,087) (86,132) (88,757) (359,754) (386,569) (421,159)
+Cost of products (96,962) (114,932) (124,110) (118,265) (31,395) (33,623) (28,059) (28,314) (121,391) (29,711) (32,735) (24,662) (24,690) (111,798) (107,476) (112,643)
+Cost of services (225,039) (287,450) (347,124) (361,976) (53,865) (58,636) (54,747) (58,654) (225,902) (59,067) (63,352) (61,470) (64,067) (247,956) (279,093) (308,517)
+Gross profit 2,264,135 2,516,049 2,671,621 2,795,353 573,513 581,728 585,930 647,616 2,388,787 573,899 597,140 603,292 693,641 2,467,972 2,637,254 2,766,670
+Gross Margin % 87.5% 86.2% 85.0% 85.3% 87.1% 86.3% 87.6% 88.2% 87.3% 86.6% 86.1% 87.5% 88.7% 87.3% 87.2% 86.8%
+Product gross margins % 95.0% 94.8% 94.6% 95.1% 94.7% 94.5% 95.4% 95.7% 95.1% 95.0% 94.7% 96.0% 96.5% 95.6% 96.0% 96.0%
+Services gross margins % 64.3% 60.2% 58.0% 58.8% 15.5% 13.3% 15.2% 16.3% 15.0% 13.5% 13.4% 15.7% 16.8% 14.9% 14.9% 14.9%
+Sales, marketing and services (1,009,310) (1,152,309) (1,218,340) (1,141,010) (222,983) (233,362) (231,089) (240,390) (927,824) (237,099) (253,572) (241,369) (236,825) (968,864) (1,022,779) (1,057,189)
+% Revenues 39.0% 39.5% 38.8% 34.8% 33.8% 34.6% 34.6% 32.7% 33.9% 35.8% 36.6% 35.0% 30.3% 34.3% 33.8% 33.2%
+% Change Y/Y 18.2% 14.2% 5.7% -6.3% -24.6% -18.3% -16.5% -15.0% -18.7% 6.3% 8.7% 4.4% -1.5% 4.4% 5.6% 3.4%
+Research and development (395,955) (451,712) (498,257) (521,289) (94,477) (90,962) (91,239) (80,119) (356,797) (91,072) (95,036) (94,236) (93,036) (373,380) (383,644) (401,744)
+% Revenues 15.3% 15.5% 15.9% 15.9% 14.3% 13.5% 13.6% 10.9% 13.0% 13.7% 13.7% 13.7% 11.9% 13.2% 12.7% 12.6%
+% Change Y/Y 15.5% 14.1% 10.3% 4.6% -28.1% -30.6% -29.8% -37.8% -31.6% -3.6% 4.5% 3.3% 16.1% 4.6% 2.7% 4.7%
+General and administrative (203,565) (207,832) (249,953) (295,275) (60,951) (62,934) (62,355) (64,590) (250,830) (63,258) (67,670) (67,670) (66,670) (265,268) (278,480) (286,480)
+% Revenues 7.9% 7.1% 8.0% 9.0% 9.3% 9.3% 9.3% 8.8% 9.2% 9.5% 9.8% 9.8% 8.5% 9.4% 9.2% 9.0%
+% Change Y/Y 6.3% 2.1% 20.3% 18.1% -15.7% -9.3% -8.3% -24.6% -15.1% 3.8% 7.5% 8.5% 3.2% 5.8% 5.0% 2.9%
+Total operating expenses (1,608,830) (1,811,853) (1,966,550) (1,951,222) (378,411) (387,258) (384,683) (385,099) (1,535,451) (391,429) (416,278) (403,275) (396,531) (1,605,636) (1,689,903) (1,750,413)
+% Revenues 62.2% 62.1% 62.6% 59.6% 57.4% 57.5% 57.5% 52.4% 56.1% 59.1% 60.0% 58.5% 50.7% 56.8% 55.9% 54.9%
+% Change Y/Y 15.9% 12.6% 8.5% -0.8% -24.2% -20.4% -19.0% -21.5% -21.3% 3.4% 7.5% 4.8% 3.0% 4.6% 5.2% 3.6%
+% Change Q/Q -22.9% 2.3% -0.7% 0.1% 1.6% 6.3% -3.1% -1.7%
+Operating income $655,305 $704,196 $705,071 $844,131 $195,102 $194,470 $201,247 $262,517 $853,336 $182,470 $180,862 $200,017 $297,110 $860,459 $947,351 $1,016,257
+Operating Margin % 25.3% 24.1% 22.4% 25.8% 29.6% 28.9% 30.1% 35.7% 31.2% 27.5% 26.1% 29.0% 38.0% 30.4% 31.3% 31.9%
+Core Operating income $694,227 $195,102 $194,470 $201,247 $262,517 $853,336 $182,470 $180,862 $200,017 $297,110 $860,459 $947,351 $1,016,257
+Core Operating Margin % 26.2% 29.6% 28.9% 30.1% 35.7% 31.2% 27.5% 26.1% 29.0% 38.0% 30.4% 31.3% 31.9%
+Other income 19,451 7,173 (5,773) (7,382) (247) 919 1,718 (1,770) 620 5,795 1,100 1,741 1,823 10,459 8,836 11,351
+Pre-tax income from operations 674,756 711,369 699,298 836,749 194,855 195,389 202,965 260,747 853,956 188,265 181,962 201,758 298,933 870,919 956,187 1,027,607
+Provision for income taxes (131,499) (143,375) (133,981) (141,679) (39,517) (38,442) (33,122) (43,225) (154,306) (36,655) (24,255) (42,369) (62,776) (166,055) (210,361) (226,074)
+Tax rate % 19.5% 20.2% 19.2% 16.9% 20.3% 19.7% 16.3% 16.6% 18.1% 19.5% 13.3% 21.0% 21.0% 19.1% 22.0% 22.0%
+Loss (non-controlling interest)
+Net income $543,257 $567,994 $565,317 $695,070 $155,338 $156,947 $169,843 $217,522 $699,650 $151,610 $157,707 $159,389 $236,157 $704,863 $745,826 $801,534
+% Revenues 21.0% 19.5% 18.0% 21.2% 23.6% 23.3% 25.4% 29.6% 25.6% 22.9% 22.7% 23.1% 30.2% 24.9% 24.7% 25.1%
+% Change Y/Y 15.1% 4.6% -0.5% 23.0% 46.7% -3.4% 1.1% -15.9% 0.7% -2.4% 0.5% -6.2% 8.6% 0.7% 5.8% 7.5%
+79.6% 80.7% 84.4% 82.9% 83.1% 87.2% 79.7% 79.5%
+Core Net Income $571,186 $155,338 $156,947 $169,843 $217,522 $699,650 $151,610 $157,707 $159,389 $236,157 $704,863 $745,826 $801,534
+Diluted shares outstanding 189,124 188,244 170,025 159,777 155,338 156,666 157,532 158,196 157,050 156,693 153,392 151,302 149,201 152,174 143,554 134,969
+Pro-forma EPS $2.87 $3.02 $3.32 $4.35 $1.00 $1.00 $1.08 $1.38 $4.45 $0.97 $1.03 $1.05 $1.58 $4.63 $5.20 $5.94
+% Change Y/Y 16.0% 5.0% 10.2% 30.8% 53.0% -0.1% 3.8% -16.9% 2.4% -3.2% 2.6% -2.3% 15.1% 4.0% 12.2% 14.3%
+Core PF EPS $3.57 $1.00 $1.00 $1.08 $1.38 $4.45 $0.97 $1.03 $1.05 $1.58 $4.63 $5.20 $5.94
+24.6% 4.0% 12.2% 14.3%
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+5
+Prepared for Rong Lu (research email)
+Figure 5. CTXS Balance Sheet
+Balance Sheet
+Assets F12A F13A F14A F15A Mar 16A Jun 16A Sep 16A Dec 16A F16A Mar 17A Jun 17A Sep 17E Dec 17E F17E F18E F19E
+Cash and cash equivalents $643,609 $280,740 $260,149 $368,518 $836,095 $666,232 $1,308,683 $956,956 $956,956 $907,977 $844,771 $894,358 $920,742 $920,742 $1,180,311 $1,492,244
+Short-term restricted cash and equivalents 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Short-term investments 285,022 453,976 529,260 502,852 726,923 684,599 354,328 727,073 727,073 506,118 511,092 511,092 511,092 511,092 511,092 511,092
+Accounts receivable, net 630,956 654,821 674,401 669,276 681,206 504,420 475,085 725,940 725,940 485,769 541,315 503,590 776,756 776,756 815,594 856,373
+Inventories 10,723 14,107 12,617 10,521 12,522 11,509 14,809 12,522 12,522 15,210 13,229 13,329 13,429 13,429 13,729 14,029
+Prepaid expenses and other 106,579 110,981 166,005 132,784 124,842 135,031 119,482 138,786 138,786 170,083 176,080 167,276 162,258 162,258 190,048 222,599
+Current portion of deferred tax assets 30,506 48,470 45,892 0 179,689 0 0 0 0 0 0 0 0 0 0 0
+Total current assets $1,707,395 $1,563,095 $1,688,324 $1,683,951 $2,561,277 $2,001,791 $2,272,387 $2,561,277 $2,561,277 $2,085,157 $2,086,487 $2,089,645 $2,384,277 $2,384,277 $2,710,774 $3,096,337
+Long-term investments - trading 595,313 855,700 1,073,110 891,964 980,142 854,486 789,038 980,142 980,142 952,157 1,045,384 1,045,384 1,045,384 1,045,384 1,045,384 1,045,384
+Long-term restricted cash, equivalents 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Long-term investments (available for sale) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Property and equipment 303,294 338,996 367,779 373,817 261,954 365,804 352,521 343,820 343,820 260,149 252,925 244,864 241,198 241,198 230,633 229,514
+Goodwill 1,518,219 1,768,949 1,796,851 1,962,722 1,585,893 1,962,169 1,965,024 1,966,810 1,966,810 1,616,817 1,617,105 1,617,105 1,617,105 1,617,105 1,617,105 1,617,105
+Other intangible assets 556,205 509,595 390,717 283,418 173,681 260,668 247,392 227,993 227,993 199,339 187,550 165,044 145,239 145,239 104,048 74,539
+Long-term deferred tax assets, net 16,616 115,418 128,198 215,196 233,900 214,505 231,681 252,396 252,396 184,208 177,375 177,375 177,375 177,375 177,375 177,375
+Other assets 66,539 60,496 67,028 70,370 593,380 54,791 64,460 57,789 57,789 62,739 64,083 79,083 94,083 94,083 94,083 94,083
+Total assets $4,763,581 $5,212,249 $5,512,007 $5,481,438 $6,390,227 $5,714,214 $5,922,503 $6,390,227 $6,390,227 $5,360,566 $5,430,909 $5,418,500 $5,704,660 $5,704,660 $5,979,402 $6,334,338
+Liabilities
+Accounts payable 71,116 78,452 79,884 95,396 72,724 72,639 85,655 84,057 84,057 64,075 65,265 89,671 86,411 86,411 91,183 95,174
+Accrued expenses and other liabilities 256,259 257,606 298,079 317,468 256,799 315,259 279,947 302,887 302,887 255,013 240,808 240,808 240,808 240,808 280,808 320,808
+Income taxes payable 50,222 29,322 12,053 18,351 39,771 27,682 51,341 39,771 39,771 28,188 4,724 17,224 29,724 29,724 79,724 129,724
+S/T Convertible Notes 1,520,826 1,338,782 1,348,156 1,348,156 113,820 30,000 30,000 30,000 30,000 30,000 30,000
+Current portion of deferred revenues 965,276 1,106,474 1,200,093 1,249,754 1,208,229 1,211,103 1,194,101 1,323,478 1,323,478 1,169,891 1,205,692 1,200,889 1,346,201 1,346,201 1,480,984 1,606,644
+Total current liabilities $1,342,873 $1,471,854 $1,590,109 $1,680,969 $3,098,349 $1,626,683 $2,949,826 $3,098,349 $3,098,349 $1,630,987 $1,546,489 $1,578,592 $1,733,144 $1,733,144 $1,962,699 $2,182,350
+Long-term deferred revenues 232,719 305,266 357,771 414,314 476,135 425,979 418,169 480,359 480,359 493,862 510,209 508,147 571,420 571,420 633,852 695,640
+Long-term debt / Convertible debt 0 0 1,292,953 1,324,992 0 1,329,478 0 0 0 1,357,580 1,367,092 1,367,092 1,367,092 1,367,092 1,367,092 1,367,092
+Other liabilities 66,212 115,322 97,529 87,717 127,521 90,029 114,931 202,792 202,792 144,395 125,418 125,418 125,418 125,418 125,418 125,418
+Total liabilities $1,641,804 $1,892,442 $3,338,362 $3,507,992 $3,702,005 $3,472,169 $3,482,926 $3,781,500 $3,781,500 $3,626,824 $3,549,208 $3,579,249 $3,797,074 $3,797,074 $4,089,061 $4,370,500
+Total Shareholders' Equity 3,121,777 3,319,807 2,173,645 1,973,446 2,688,222 2,242,045 2,439,577 2,608,727 2,608,727 1,733,742 1,881,701 1,839,250 1,907,587 1,907,587 1,890,341 1,963,837
+Liabilities & Shareholders' Equity $4,763,581 $5,212,249 $5,512,007 $5,481,438 $6,390,227 $5,714,214 $5,922,503 $6,390,227 $6,390,227 $5,360,566 $5,430,909 $5,418,500 $5,704,660 $5,704,660 $5,979,402 $6,334,338
+Source: Citi Research, Company Reports
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+6
+Prepared for Rong Lu (research email)
+Figure 6. CTXS Cash Flow Statement
+Cash flow statement
+OPERATING ACTIVITIES F12A F13A F14A F15A Mar 16A Jun 16A Sep 16A Dec 16A F16A Mar 17A Jun 17A Sep 17E Dec 17E F17E F18E F19E
+Net Income $352,547 $339,523 $251,722 $319,361 $73,748 $106,830 $112,327 $179,127 $472,032 $27,621 $108,829 $109,290 $213,569 $459,308 $631,563 $714,105
+Depreciation and amortization 214,873 267,500 330,270 428,892 70,961 78,058 70,136 66,968 286,123 49,300 48,103 55,386 51,638 204,427 163,637 148,577
+Stock-based compensation 149,940 183,941 169,287 147,368 42,097 45,823 48,282 48,586 184,788 34,808 40,679 48,260 54,768 178,514 151,191 159,391
+Amortization of debt discount 0 23,293 0 0 0 0 0 0
+In-process R&D 0 0 0
+(Gain) loss on investments (14,477) (2,441) 0
+Benefit related to adjustment of payroll taxe 0 0 0
+Provision for doubtful accounts 1,784 1,046 7,910 0 0 0 0 0 0 0 0
+Provision for product returns 10,743 4,473 0
+Provision for inventory reserves 1,022 1,905 0
+Tax effect of stock-based compensation 24,839 8,129 0 (5,873) (5,889) (3,619) (2,866) (3,675) (16,049) 0 0 (5,000) (5,000) (10,000)
+Excess tax benefit (stock options) (35,374) (12,552) 0
+Deferred income tax benefit (70,791) (51,848) (36,982) (89,079) 4,830 (15,138) (13,604) (17,192) (41,104) 67,497 (10,913) (10,000) (10,000) 36,584
+Goodwill adjustment 0 0 0 0
+Effects of exchange rate 1,706 5,888 0 13,416 (1,454) (788) (1,247) 8,678 5,189 (5,390) (659)
+Other non-cash items 1,178 434 (1,086) 8,740 2,641 178 6,428 2,381 11,628 2,204 48,312
+Operating assets and liabilities
+Accounts receivable (107,628) (22,951) (30,962) (7,226) 219,570 (55,570) 29,023 (253,659) (60,636) 197,408 (56,937) 37,725 (273,166) (94,970) (38,838) (40,780)
+Inventories (2,024) (5,591) (1,167) 703 (2,072) 609 (3,891) 1,221 (4,133) (2,811) 1,413 (100) (100) (1,598) (300) (300)
+Prepaid expenses and other assets (9,195) (862) (28,885) (8,057) (29,115) 13,550 29,871 (26,778) (12,472) (22,736) 16,779 8,804 5,018 7,865 (27,791) (32,551)
+Other assets (1,497) 5,076 1,498 (2,550) 750 1,040 (10,131) 5,881 (2,460) (8,845) (752)
+Deferred tax assets 0 0 0
+Income tax payable (4,408) (35,316) (56,587) 51,695 1,602 32,797 17,568 (2,133) 49,834 (30,223) (43,344) 12,500 12,500 (48,567) 50,000 50,000
+Accounts payable (426) 3,092 40 10,959 (14,559) (14,461) 11,242 (3,127) (20,905) (8,222) (1,050) 24,406 (3,260) 11,874 4,772 3,991
+Accrued expenses and other liabilities 45,135 22,515 37,786 49,586 2,919 14,319 (16,754) 32,666 33,150 (27,959) 7,423 0 0 (20,536) 40,000 40,000
+Deferred revenues 216,798 201,455 146,123 107,150 (37,402) 15,086 (24,812) 191,567 144,439 (26,064) 52,148 (6,864) 208,584 227,804 197,215 187,448
+Other liabilities 43,782 14,927 33,720 9,463 1,623 (4,420) 17,310 7,813 22,326 2,241 (3,031) 0 0 (790) 0 0
+Cash flow from operations $818,527 $928,343 $845,980 $1,034,548 $330,250 $214,294 $268,882 $238,324 $1,051,750 $248,829 $207,000 $274,406 $254,551 $949,916 $1,171,450 $1,229,883
+% Change Y/Y 20.5% 13.4% -8.9% 22.3% 13.1% 6.5% 3.5% -15.4% 1.7% -24.7% -3.4% 2.1% 6.8% -9.7% 23.3% 5.0%
+INVESTING ACTIVITIES
+Purchases of investments (1,435,367) (1,703,976) (305,977) (2,182,831) (466,718) (440,780) (503,579) (827,707) (2,238,784) (272,060) (317,944)
+Proceed from investments 1,256,295 766,192 20,296 1,751,766 234,242 212,690 709,236 138,468 1,294,636 63,516 498,582
+Maturities of investments 437,991 504,314 0 637,052 139,244 182,856 188,923 121,494 632,517 458,020 (278,690)
+Purchases of property and equipment (122,958) (162,889) (165,417) (160,825) (41,550) (35,127) (28,662) (28,831) (134,170) (19,746) (18,904) (24,819) (28,166) (91,636) (111,881) (117,950)
+Purchases of other assets 17,630 12,067 (3,624) 0 747 (747) 0 0 0 0 0
+Cash paid for acquisitions, net of cash (487,221) (334,881) (101,059) (256,907) 0 0 (11,455) (1,787) (13,242) (60,449) 0
+Licensing agreements / intangible assets (27,760) (12,153) (13,676) (11,403) (24,281) (555) (1,243) (263) (26,342) (1,934) (3,221)
+Other investing activities 3,450 (6,824) (1,267) 261 283 (80) 717 1,181 1,285 (298)
+Cash flow from investing ($357,940) ($938,150) ($569,457) ($224,415) ($158,055) ($81,380) $353,140 ($597,909) ($484,204) $168,632 ($120,475) ($24,819) ($28,166) ($91,636) ($111,881) ($117,950)
+FINANCING ACTIVITIES
+Common stock under stock options 108,406 73,655 46,618 112,285 6,024 24,535 8,879 1,809 41,247 902 588
+Excess tax benefit (stock options) 35,374 12,552 6,132 5,873 5,889 4,419 2,066 3,675 16,049 0 (60,547)
+Stock repurchases (251,008) (406,326) (1,640,885) (755,704) (28,689) 0 0 0 (28,689) (500,000) 0 (200,000) (200,000) (900,000) (800,000) (800,000)
+Other (18,208) (30,101) (95,660) (46,336) (22,428) (21,414) (11,560) (11,235) (66,637) (34,868) 0
+Proceeds from debt 0 0 1,415,717 (7,569) 0 0 0 0 0 100,000 25,000
+Cash paid for financing fees 0 0 0 (28,523) 0
+Payments on debt (24,346) (2,061) (24,590) 0 0 0 0 0 0 (4,000) (99,000)
+Cash flow from financing ($149,782) ($352,281) ($292,668) ($691,451) ($39,204) $7,540 ($615) ($5,751) ($38,030) ($466,489) ($133,959) ($200,000) ($200,000) ($900,000) ($800,000) ($800,000)
+Effect of exchange rates (492) (781) (10,313) 2,082 (1,596) 1,470 (7,114) (5,158) 3,485 1,885
+Net increase in cash & equivalents 310,805 (362,088) (16,145) 118,682 132,991 140,454 621,407 (365,336) 529,516 (49,028) (47,434) 49,587 26,385 (41,720) 259,568 311,933
+Cash paid for income tax
+Cash tax rate (CFO)
+Cash paid for interest
+Free Cash Flow (Equity) 695,569 765,454 680,563 873,723 288,700 179,167 240,220 209,493 917,580 229,083 188,096 249,587 226,385 858,280 1,059,568 1,111,933
+Free Cash Flow (Firm ) 679,909 759,727 702,071 905,462 295,402 185,034 245,715 217,932 944,121 231,189 194,673 255,114 231,887 877,838 1,080,485 1,131,512
+% Change Y/Y 22.2% 11.7% -7.6% 29.0% 13.6% 5.8% 7.5% -9.5% 4.3% -21.7% 5.2% 3.8% 6.4% -7.0% 23.1% 4.7%
+Source: Citi Research, Company Reports
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+Citrix Systems, Inc.
+Company description
+Founded in 1989, Citrix has a deep history in the client computing market and a
+close history working with Microsoft to extend the Windows platform. The
+company’s largest franchise, XenApp, has a 10+ year history in the market (formerly
+known as Presentation Server, MetaFrame and Winframe) and was once the only
+product. Over the last five years, the company has aggressively diversified, with
+Desktop Solutions now contributing ~55% of revenue. New markets include
+application networking (Netscaler), collaboration software as a service (Citrix
+Online) and desktop and server virtualization (XenDesktop and Xen Server).
+Investment strategy
+With near-term prospects for accelerating top-line growth and upside to numbers,
+we think the stock deserves a higher multiple than the current 10-11x NTM
+EV/FCFF. Citrix remains one of our top picks given upward bias to numbers that are
+poised to show reacceleration, improving profitability, ratable shift and capital return.
+After spin/transaction noise settles and core trends are clearer, we expect investors
+to better recognize prospects for improving growth/profitability, maintenance uplift,
+ratable shift and capital return. We rate the stock a Buy.
+Valuation
+Our $96 PT equates to ~13x our 2018 EV/ FCFF estimate of $1.08B. The multiple is
+towards the low-end of CTXS' historical trading range.
+Risks
+We see risks that restructuring activities could negatively impact revenue (much like
+they did in 1H15). Other risks to our price target include:
+Prepared for Rong Lu (research email)
+Slower-than-expected adoption of the company's XenDesktop product. This could
+happen if enterprises continue to question the value proposition of virtual desktops.
+Heightened interest in mobile offering could also continue to stall contract
+discussions. Demand for this product has been impacted by depressed IT spending
+and lower user counts among customers.
+A larger-than-expected weakening in IT spending or deceleration in new projects
+within IT could drive lower-than-expected purchases of Citrix products than we
+model.
+The Datacenter product line has generated the majority of Citrix's outperformance.
+A slowdown in the business's +20% Y/Y growth would likely limit the upside
+potential.
+7
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+Appendix A-1
+Analyst Certification
+The research analysts primarily responsible for the preparation and content of this research report are either (i) designated by “AC” in the author
+block or (ii) listed in bold alongside content which is attributable to that analyst. If multiple AC analysts are designated in the author block, each
+analyst is certifying with respect to the entire research report other than (a) content attributable to another AC certifying analyst listed in bold
+alongside the content and (b) views expressed solely with respect to a specific issuer which are attributable to another AC certifying analyst
+identified in the price charts or rating history tables for that issuer shown below. Each of these analysts certify, with respect to the sections of the
+report for which they are responsible: (1) that the views expressed therein accurately reflect their personal views about each issuer and security
+referenced and were prepared in an independent manner, including with respect to Citigroup Global Markets Inc. and its affiliates; and (2) no part
+of the research analyst's compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed by
+that research analyst in this report.
+IMPORTANT DISCLOSURES
+Prepared for Rong Lu (research email)
+Due to Citi's involvement in Dell Inc & Silver Lake Partners acquisition of EMC Corp, Citi Research restricted publication of new research reports, and
+suspended its rating and target price of VMware, Inc.(the "Company”) on October 12th, 2015(the "Suspension Date”). Please note that the Company’s price
+chart available on Citi Research’s disclosure website, does not reflect that Citi Research did not have a rating or target price between the Suspension Date
+and July 25th, 2016 when Citi Research resumed full coverage. Citigroup Global Markets Inc. owns a position of 1 million USD or more in the debt securities
+of VMware Inc
+Citigroup Global Markets Inc. owns a position of 1 million USD or more in the debt securities of Microsoft Corp.
+Citigroup Global Markets Inc. owns a position of 1 million USD or more in the debt securities of Intuit Inc
+Citigroup Global Markets Inc. owns a position of 1 million USD or more in the debt securities of Red Hat Inc
+Citigroup Global Markets Inc. owns a position of 1 million USD or more in the debt securities of Oracle Corp A director of Citi serves on the board of Oracle
+Corporation
+Citigroup Global Markets Inc. owns a position of 1 million USD or more in the debt securities of Citrix Systems Inc
+Within the past 12 months, Citigroup Global Markets Inc. or its affiliates has acted as manager or co-manager of an offering of securities of Microsoft Corp.,
+CA Inc..
+Citigroup Global Markets Inc. or its affiliates has received compensation for investment banking services provided within the past 12 months from VMware,
+Inc., SAP SE, Microsoft Corp., Intuit Inc., CA Inc., Red Hat, Inc., Oracle Corporation, Citrix Systems, Inc..
+Citigroup Global Markets Inc. or its affiliates expects to receive or intends to seek, within the next three months, compensation for investment banking
+services from VMware, Inc..
+Citigroup Global Markets Inc. or an affiliate received compensation for products and services other than investment banking services from VMware, Inc.,
+SAP SE, Microsoft Corp., Intuit Inc., CA Inc., Red Hat, Inc., CheckPoint Software Technologies, Inc., Oracle Corporation, Citrix Systems, Inc. in the past 12
+months.
+Citigroup Global Markets Inc. currently has, or had within the past 12 months, the following as investment banking client(s): Microsoft Corp., VMware, Inc.,
+SAP SE, Intuit Inc., CA Inc., Red Hat, Inc., Oracle Corporation, Citrix Systems, Inc..
+8
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+Prepared for Rong Lu (research email)
+Citigroup Global Markets Inc. currently has, or had within the past 12 months, the following as clients, and the services provided were non-investmentbanking,
+securities-related: CheckPoint Software Technologies, Inc., Oracle Corporation, VMware, Inc., SAP SE, Microsoft Corp., Intuit Inc., CA Inc., Red
+Hat, Inc., Citrix Systems, Inc..
+Citigroup Global Markets Inc. currently has, or had within the past 12 months, the following as clients, and the services provided were non-investmentbanking,
+non-securities-related: VMware, Inc., SAP SE, Microsoft Corp., Intuit Inc., CA Inc., Red Hat, Inc., CheckPoint Software Technologies, Inc., Oracle
+Corporation, Citrix Systems, Inc..
+Citigroup Global Markets Inc. and/or its affiliates has a significant financial interest in relation to Microsoft Corp., Intuit Inc., CA Inc., Oracle Corporation, Citrix
+Systems, Inc.. (For an explanation of the determination of significant financial interest, please refer to the policy for managing conflicts of interest which can
+be found at www.citiVelocity.com.)
+Disclosure for investors in the Republic of Turkey: Under Capital Markets Law of Turkey (Law No: 6362), the investment information, comments and
+advices given herein are not part of investment advisory activity. Investment advisory services are provided by authorized institutions to persons and entities
+privately by considering their risk and return preferences. Whereas the comments and advices included herein are of general nature. Therefore, they may
+not fit to your financial situation and risk and return preferences. For this reason, making an investment decision only by relying on the information given
+herein may not give rise to results that fit your expectations. Furthermore, Citi Research is a division of Citigroup Global Markets Inc. (the “Firm”), which does
+and seeks to do business with companies and/or trades on securities covered in this research reports. As a result, investors should be aware that the Firm
+may have a conflict of interest that could affect the objectivity of this report.
+Analysts’ compensation is determined by Citi Research management and Citigroup’s senior management and is based upon activities and services intended
+to benefit the investor clients of Citigroup Global Markets Inc. and its affiliates (the “Firm”). Compensation is not linked to specific transactions or
+recommendations. Like all Firm employees, analysts receive compensation that is impacted by overall Firm profitability which includes investment banking,
+sales and trading, and principal trading revenues. One factor in equity research analyst compensation is arranging corporate access events between
+institutional clients and the management teams of covered companies. Typically, company management is more likely to participate when the analyst has a
+positive view of the company.
+For securities recommended in the Product in which the Firm is not a market maker, the Firm is a liquidity provider in the issuers' financial instruments and
+may act as principal in connection with such transactions. The Firm is a regular issuer of traded financial instruments linked to securities that may have been
+recommended in the Product. The Firm regularly trades in the securities of the issuer(s) discussed in the Product. The Firm may engage in securities
+transactions in a manner inconsistent with the Product and, with respect to securities covered by the Product, will buy or sell from customers on a principal
+basis.
+The Firm is a market maker in the publicly traded equity securities of SAP SE, Microsoft Corp., Intuit Inc., CA Inc., CheckPoint Software Technologies, Inc.,
+Oracle Corporation, Citrix Systems, Inc..
+For important disclosures (including copies of historical disclosures) regarding the companies that are the subject of this Citi Research product ("the
+Product"), please contact Citi Research, 388 Greenwich Street, 28th Floor, New York, NY, 10013, Attention: Legal/Compliance [E6WYB6412478]. In
+addition, the same important disclosures, with the exception of the Valuation and Risk assessments and historical disclosures, are contained on the Firm's
+disclosure website at https://www.citivelocity.com/cvr/eppublic/citi_research_disclosures. Valuation and Risk assessments can be found in the text of the
+most recent research note/report regarding the subject company. Pursuant to the Market Abuse Regulation a history of all Citi Research recommendations
+published during the preceding 12-month period can be accessed via Citi Velocity (https://www.citivelocity.com/cv2) or your standard distribution portal.
+Historical disclosures (for up to the past three years) will be provided upon request.
+Citi Research Equity Ratings Distribution
+12 Month Rating Catalyst Watch
+Data current as of 30 Jun 2017 Buy Hold Sell Buy Hold Sell
+Citi Research Global Fundamental Coverage 47% 39% 13% 2% 97% 1%
+% of companies in each rating category that are investment banking clients 64% 64% 58% 57% 64% 51%
+Guide to Citi Research Fundamental Research Investment Ratings:
+Citi Research stock recommendations include an investment rating and an optional risk rating to highlight high risk stocks.
+Risk rating takes into account both price volatility and fundamental criteria. Stocks will either have no risk rating or a High risk rating assigned.
+Investment Ratings: Citi Research investment ratings are Buy, Neutral and Sell. Our ratings are a function of analyst expectations of expected total return
+("ETR") and risk. ETR is the sum of the forecast price appreciation (or depreciation) plus the dividend yield for a stock within the next 12 months. The
+Investment rating definitions are: Buy (1) ETR of 15% or more or 25% or more for High risk stocks; and Sell (3) for negative ETR. Any covered stock not
+assigned a Buy or a Sell is a Neutral (2). For stocks rated Neutral (2), if an analyst believes that there are insufficient valuation drivers and/or investment
+catalysts to derive a positive or negative investment view, they may elect with the approval of Citi Research management not to assign a target price and,
+thus, not derive an ETR. Analysts may place covered stocks "Under Review" in response to exceptional circumstances (e.g. lack of information critical to the
+analyst's thesis) affecting the company and / or trading in the company's securities (e.g. trading suspension). As soon as practically possible, the analyst will
+publish a note re-establishing a rating and investment thesis. To satisfy regulatory requirements, we correspond Under Review and Neutral to Hold in our
+ratings distribution table for our 12-month fundamental rating system. However, we reiterate that we do not consider Under Review to be a recommendation.
+Investment ratings are determined by the ranges described above at the time of initiation of coverage, a change in investment and/or risk rating, or a change
+in target price (subject to limited management discretion). At other times, the expected total returns may fall outside of these ranges because of market price
+movements and/or other short-term volatility or trading patterns. Such interim deviations from specified ranges will be permitted but will become subject to
+review by Research Management. Your decision to buy or sell a security should be based upon your personal investment objectives and should be made
+only after evaluating the stock's expected performance and risk.
+Prior to May 1, 2014 Citi Research may have also assigned a three-month relative call (or rating) to a stock to highlight expected out-performance (most
+preferred) or under-performance (least preferred) versus the geographic and industry sector over a 3 month period. The relative call may have highlighted a
+9
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+Prepared for Rong Lu (research email)
+specific near-term catalyst or event impacting the company or the market that was anticipated to have a short-term price impact on the equity securities of
+the company. Absent any specific catalyst the analyst(s) may have indicated the most and least preferred stocks in the universe of stocks under
+consideration, explaining the basis for this short-term view. This three-month view may have been different from and did not affect a stock's fundamental
+equity rating, which reflected a longer-term total absolute return expectation.
+Catalyst Watch Upside/Downside calls:
+Citi Research may also include a Catalyst Watch Upside or Downside call to highlight specific near-term catalysts or events impacting the company or the
+market that are expected to influence the share price over a specified period of 30 or 90 days. A Catalyst Watch Upside (Downside) call indicates that the
+analyst expects the share price to rise (fall) in absolute terms over the specified period. A Catalyst Watch Upside/Downside call will automatically expire at
+the end of the specified 30/90 day period; the analyst may also close a Catalyst Watch call prior to the end of the specified period in a published research
+note. A Catalyst Watch Upside or Downside call may be different from and does not affect a stock’s fundamental equity rating, which reflects a longer-term
+total absolute return expectation. For purposes of FINRA ratings-distribution-disclosure rules, a Catalyst Watch Upside call corresponds to a buy
+recommendation and a Catalyst Watch Downside call corresponds to a sell recommendation. Any stock not assigned to a Catalyst Watch Upside or Catalyst
+Watch Downside call is considered Catalyst Watch Non-Rated (CWNR). For purposes of FINRA ratings-distribution-disclosure rules, we correspond CWNR
+to Hold in our ratings distribution table for our Catalyst Watch Upside/Downside rating system. However, we reiterate that we do not consider CWNR to be a
+recommendation. For all Catalyst Watch Upside/Downside calls, risk exists that the catalyst(s) and associated share-price movement will not materialize as
+expected.
+NON-US RESEARCH ANALYST DISCLOSURES
+Non-US research analysts who have prepared this report (i.e., all research analysts listed below other than those identified as employed by Citigroup Global
+Markets Inc.) are not registered/qualified as research analysts with FINRA. Such research analysts may not be associated persons of the member
+organization and therefore may not be subject to the FINRA Rule 2241 restrictions on communications with a subject company, public appearances and
+trading securities held by a research analyst account. The legal entities employing the authors of this report are listed below:
+Citigroup Global Markets Inc
+Walter H Pritchard, CFA; Tyler Radke
+OTHER DISCLOSURES
+Any price(s) of instruments mentioned in recommendations are as of the prior day’s market close on the primary market for the instrument, unless otherwise
+stated.
+The completion and first dissemination of any recommendations made within this research report are as of the Eastern date-time displayed at the top of the
+Product. If the Product references views of other analysts then please refer to the price chart or rating history table for the date/time of completion and first
+dissemination with respect to that view.
+European regulations require that where a recommendation differs from any of the author’s previous recommendations concerning the same financial
+instrument or issuer that has been published during the preceding 12-month period that the change(s) and the date of that previous recommendation are
+indicated. For fundamental coverage please refer to the price chart or rating change history within this disclosure appendix or the issuer disclosure summary
+at https://www.citivelocity.com/cvr/eppublic/citi_research_disclosures.
+European regulations require that a firm must establish, implement and make available a policy for managing conflicts of interest arising as a result of
+publication or distribution of investment research. The policy applicable to Citi Research's Products can be found
+at https://www.citivelocity.com/cvr/eppublic/citi_research_disclosures.
+The proportion of all Citi Research fundamental research recommendations that were the equivalent to “Buy”,”Hold”,”Sell” at the end of each quarter over the
+prior 12 months (with the % of these that had received investment firm services from Citi in the prior 12 months shown in brackets) is as follows: Q2 2017
+Buy 32% (70%), Hold 45% (63%), Sell 24% (57%); Q1 2017 Buy 32% (70%), Hold 45% (63%), Sell 24% (56%); Q4 2016 Buy 31% (71%), Hold 45% (64%),
+Sell 24% (58%); Q3 2016 Buy 32% (68%), Hold 44% (64%), Sell 24% (61%).
+Citigroup Global Markets India Private Limited and/or its affiliates may have, from time to time, actual or beneficial ownership of 1% or more in the debt
+securities of the subject issuer.
+Citi Research generally disseminates its research to the Firm’s global institutional and retail clients via both proprietary (e.g., Citi Velocity and Citi Personal
+Wealth Management) and non-proprietary electronic distribution platforms. Certain research may be disseminated only via the Firm’s proprietary distribution
+platforms; however such research will not contain changes to earnings forecasts, target price, investment or risk rating or investment thesis or be otherwise
+inconsistent with the author’s previously published research. Certain research is made available only to institutional investors to satisfy regulatory
+requirements. Individual Citi Research analysts may also opt to circulate published research to one or more clients by email; such email distribution is
+discretionary and is done only after the research has been disseminated. The level and types of services provided by Citi Research analysts to clients may
+vary depending on various factors such as the client’s individual preferences as to the frequency and manner of receiving communications from analysts, the
+client’s risk profile and investment focus and perspective (e.g. market-wide, sector specific, long term, short-term etc.), the size and scope of the overall
+client relationship with the Firm and legal and regulatory constraints.
+Pursuant to Comissão de Valores Mobiliários Rule 483, Citi is required to disclose whether a Citi related company or business has a commercial relationship
+with the subject company. Considering that Citi operates multiple businesses in more than 100 countries around the world, it is likely that Citi has a
+commercial relationship with the subject company.
+Securities recommended, offered, or sold by the Firm: (i) are not insured by the Federal Deposit Insurance Corporation; (ii) are not deposits or other
+obligations of any insured depository institution (including Citibank); and (iii) are subject to investment risks, including the possible loss of the principal
+amount invested. The Product is for informational purposes only and is not intended as an offer or solicitation for the purchase or sale of a security. Any
+decision to purchase securities mentioned in the Product must take into account existing public information on such security or any registered prospectus.
+Although information has been obtained from and is based upon sources that the Firm believes to be reliable, we do not guarantee its accuracy and it may
+be incomplete and condensed. Note, however, that the Firm has taken all reasonable steps to determine the accuracy and completeness of the disclosures
+10
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+Prepared for Rong Lu (research email)
+made in the Important Disclosures section of the Product. The Firm's research department has received assistance from the subject company(ies) referred
+to in this Product including, but not limited to, discussions with management of the subject company(ies). Firm policy prohibits research analysts from
+sending draft research to subject companies. However, it should be presumed that the author of the Product has had discussions with the subject company
+to ensure factual accuracy prior to publication. All opinions, projections and estimates constitute the judgment of the author as of the date of the Product and
+these, plus any other information contained in the Product, are subject to change without notice. Prices and availability of financial instruments also are
+subject to change without notice. Notwithstanding other departments within the Firm advising the companies discussed in this Product, information obtained
+in such role is not used in the preparation of the Product. Although Citi Research does not set a predetermined frequency for publication, if the Product is a
+fundamental equity or credit research report, it is the intention of Citi Research to provide research coverage of the covered issuers, including in response to
+news affecting the issuer. For non-fundamental research reports, Citi Research may not provide regular updates to the views, recommendations and facts
+included in the reports. Notwithstanding that Citi Research maintains coverage on, makes recommendations concerning or discusses issuers, Citi Research
+may be periodically restricted from referencing certain issuers due to legal or policy reasons. Citi Research may provide different research products and
+services to different classes of customers (for example, based upon long-term or short-term investment horizons) that may lead to differing conclusions or
+recommendations that could impact the price of a security contrary to the recommendations in the alternative research product, provided that each is
+consistent with the rating system for each respective product.
+Investing in non-U.S. securities, including ADRs, may entail certain risks. The securities of non-U.S. issuers may not be registered with, nor be subject to the
+reporting requirements of the U.S. Securities and Exchange Commission. There may be limited information available on foreign securities. Foreign
+companies are generally not subject to uniform audit and reporting standards, practices and requirements comparable to those in the U.S. Securities of
+some foreign companies may be less liquid and their prices more volatile than securities of comparable U.S. companies. In addition, exchange rate
+movements may have an adverse effect on the value of an investment in a foreign stock and its corresponding dividend payment for U.S. investors. Net
+dividends to ADR investors are estimated, using withholding tax rates conventions, deemed accurate, but investors are urged to consult their tax advisor for
+exact dividend computations. Investors who have received the Product from the Firm may be prohibited in certain states or other jurisdictions from
+purchasing securities mentioned in the Product from the Firm. Please ask your Financial Consultant for additional details. Citigroup Global Markets Inc.
+takes responsibility for the Product in the United States. Any orders by US investors resulting from the information contained in the Product may be placed
+only through Citigroup Global Markets Inc.
+Important Disclosures for Bell Potter Customers: Bell Potter is making this Product available to its clients pursuant to an agreement with Citigroup Global
+Markets Australia Pty Limited. Neither Citigroup Global Markets Australia Pty Limited nor any of its affiliates has made any determination as to the suitability
+of the information provided herein and clients should consult with their Bell Potter financial advisor before making any investment decision.
+The Citigroup legal entity that takes responsibility for the production of the Product is the legal entity which the first named author is employed
+by. The Product is made available in Australia through Citigroup Global Markets Australia Pty Limited. (ABN 64 003 114 832 and AFSL No. 240992),
+participant of the ASX Group and regulated by the Australian Securities & Investments Commission. Citigroup Centre, 2 Park Street, Sydney, NSW
+2000. Citigroup Global Markets Australia Pty Limited is not an Authorised Deposit-Taking Institution under the Banking Act 1959, nor is it regulated by the
+Australian Prudential Regulation Authority. The Product is made available in Australia to Private Banking wholesale clients through Citigroup Pty Limited
+(ABN 88 004 325 080 and AFSL 238098). Citigroup Pty Limited provides all financial product advice to Australian Private Banking wholesale clients through
+bankers and relationship managers. If there is any doubt about the suitability of investments held in Citigroup Private Bank accounts, investors should
+contact the Citigroup Private Bank in Australia. Citigroup companies may compensate affiliates and their representatives for providing products and services
+to clients. The Product is made available in Brazil by Citigroup Global Markets Brasil - CCTVM SA, which is regulated by CVM - Comissão de Valores
+Mobiliários ("CVM"), BACEN - Brazilian Central Bank, APIMEC - Associação dos Analistas e Profissionais de Investimento do Mercado de Capitais and
+ANBIMA – Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais. Av. Paulista, 1111 - 14º andar(parte) - CEP: 01311920 - São Paulo -
+SP. If the Product is being made available in certain provinces of Canada by Citigroup Global Markets (Canada) Inc. ("CGM Canada"), CGM Canada has
+approved the Product. Citigroup Place, 123 Front Street West, Suite 1100, Toronto, Ontario M5J 2M3. This product is available in Chile through Banchile
+Corredores de Bolsa S.A., an indirect subsidiary of Citigroup Inc., which is regulated by the Superintendencia de Valores y Seguros. Agustinas 975, piso 2,
+Santiago, Chile. The Product is distributed in Germany by Citigroup Global Markets Deutschland AG ("CGMD"), which is regulated by Bundesanstalt fuer
+Finanzdienstleistungsaufsicht (BaFin). CGMD, Reuterweg 16, 60323 Frankfurt am Main. Research which relates to "securities" (as defined in the Securities
+and Futures Ordinance (Cap. 571 of the Laws of Hong Kong)) is issued in Hong Kong by, or on behalf of, Citigroup Global Markets Asia Limited which takes
+full responsibility for its content. Citigroup Global Markets Asia Ltd. is regulated by Hong Kong Securities and Futures Commission. If the Research is made
+available through Citibank, N.A., Hong Kong Branch, for its clients in Citi Private Bank, it is made available by Citibank N.A., Citibank Tower, Citibank Plaza,
+3 Garden Road, Hong Kong. Citibank N.A. is regulated by the Hong Kong Monetary Authority. Please contact your Private Banker in Citibank N.A., Hong
+Kong, Branch if you have any queries on or any matters arising from or in connection with this document. The Product is made available in India by
+Citigroup Global Markets India Private Limited (CGM), which is regulated by the Securities and Exchange Board of India (SEBI), as a Research Analyst
+(SEBI Registration No. INH000000438). CGM is also actively involved in the business of merchant banking, stock brokerage, and depository participant, in
+India, and is registered with SEBI in this regard. CGM’s registered office is at 1202, 12th Floor, FIFC, G Block, Bandra Kurla Complex, Bandra East, Mumbai
+– 400051. CGM’s Corporate Identity Number is U99999MH2000PTC126657, and its contact details are: Tel:+9102261759999 Fax:+9102261759961. The
+Product is made available in Indonesia through PT Citigroup Securities Indonesia. 5/F, Citibank Tower, Bapindo Plaza, Jl. Jend. Sudirman Kav. 54-55,
+Jakarta 12190. Neither this Product nor any copy hereof may be distributed in Indonesia or to any Indonesian citizens wherever they are domiciled or to
+Indonesian residents except in compliance with applicable capital market laws and regulations. This Product is not an offer of securities in Indonesia. The
+securities referred to in this Product have not been registered with the Capital Market and Financial Institutions Supervisory Agency (BAPEPAM-LK)
+pursuant to relevant capital market laws and regulations, and may not be offered or sold within the territory of the Republic of Indonesia or to Indonesian
+citizens through a public offering or in circumstances which constitute an offer within the meaning of the Indonesian capital market laws and
+regulations. The Product is made available in Israel through Citibank NA, regulated by the Bank of Israel and the Israeli Securities Authority. Citibank, N.A,
+Platinum Building, 21 Ha'arba'ah St, Tel Aviv, Israel. The Product is made available in Italy by Citigroup Global Markets Limited, which is authorised by the
+PRA and regulated by the FCA and the PRA. Via dei Mercanti, 12, Milan, 20121, Italy. The Product is made available in Japan by Citigroup Global Markets
+Japan Inc. ("CGMJ"), which is regulated by Financial Services Agency, Securities and Exchange Surveillance Commission, Japan Securities Dealers
+Association, Tokyo Stock Exchange and Osaka Securities Exchange. Shin-Marunouchi Building, 1-5-1 Marunouchi, Chiyoda-ku, Tokyo 100-6520 Japan. If
+11
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+Prepared for Rong Lu (research email)
+the Product was distributed by SMBC Nikko Securities Inc. it is being so distributed under license. In the event that an error is found in an CGMJ research
+report, a revised version will be posted on the Firm's Citi Velocity website. If you have questions regarding Citi Velocity, please call (81 3) 6270-3019 for
+help. The Product is made available in Korea by Citigroup Global Markets Korea Securities Ltd., which is regulated by the Financial Services Commission,
+the Financial Supervisory Service and the Korea Financial Investment Association (KOFIA). Citibank Building, 39 Da-dong, Jung-gu, Seoul 100-180,
+Korea. KOFIA makes available registration information of research analysts on its website. Please visit the following website if you wish to find KOFIA
+registration information on research analysts of Citigroup Global Markets Korea Securities
+Ltd. http://dis.kofia.or.kr/websquare/index.jsp?w2xPath=/wq/fundMgr/DISFundMgrAnalystList.xml&divisionId=MDIS03002002000000&serviceId=SDIS03002
+002000. The Product is made available in Korea by Citibank Korea Inc., which is regulated by the Financial Services Commission and the Financial
+Supervisory Service. Address is Citibank Building, 39 Da-dong, Jung-gu, Seoul 100-180, Korea. The Product is made available in Malaysia by Citigroup
+Global Markets Malaysia Sdn Bhd (Company No. 460819-D) (“CGMM”) to its clients and CGMM takes responsibility for its contents. CGMM is regulated by
+the Securities Commission of Malaysia. Please contact CGMM at Level 43 Menara Citibank, 165 Jalan Ampang, 50450 Kuala Lumpur, Malaysia in respect
+of any matters arising from, or in connection with, the Product. The Product is made available in Mexico by Acciones y Valores Banamex, S.A. De C. V.,
+Casa de Bolsa, Integrante del Grupo Financiero Banamex ("Accival") which is a wholly owned subsidiary of Citigroup Inc. and is regulated by Comision
+Nacional Bancaria y de Valores. Reforma 398, Col. Juarez, 06600 Mexico, D.F. In New Zealand the Product is made available to ‘wholesale clients’ only as
+defined by s5C(1) of the Financial Advisers Act 2008 (‘FAA’) through Citigroup Global Markets Australia Pty Ltd (ABN 64 003 114 832 and AFSL No.
+240992), an overseas financial adviser as defined by the FAA, participant of the ASX Group and regulated by the Australian Securities & Investments
+Commission. Citigroup Centre, 2 Park Street, Sydney, NSW 2000. The Product is made available in Pakistan by Citibank N.A. Pakistan branch, which is
+regulated by the State Bank of Pakistan and Securities Exchange Commission, Pakistan. AWT Plaza, 1.1. Chundrigar Road, P.O. Box 4889, Karachi-
+74200. The Product is made available in the Philippines through Citicorp Financial Services and Insurance Brokerage Philippines, Inc., which is regulated
+by the Philippines Securities and Exchange Commission. 20th Floor Citibank Square Bldg. The Product is made available in the Philippines through Citibank
+NA Philippines branch, Citibank Tower, 8741 Paseo De Roxas, Makati City, Manila. Citibank NA Philippines NA is regulated by The Bangko Sentral ng
+Pilipinas. The Product is made available in Poland by Dom Maklerski Banku Handlowego SA an indirect subsidiary of Citigroup Inc., which is regulated by
+Komisja Nadzoru Finansowego. Dom Maklerski Banku Handlowego S.A. ul.Senatorska 16, 00-923 Warszawa. The Product is made available in the
+Russian Federation through AO Citibank, which is licensed to carry out banking activities in the Russian Federation in accordance with the general banking
+license issued by the Central Bank of the Russian Federation and brokerage activities in accordance with the license issued by the Federal Service for
+Financial Markets. Neither the Product nor any information contained in the Product shall be considered as advertising the securities mentioned in this
+report within the territory of the Russian Federation or outside the Russian Federation. The Product does not constitute an appraisal within the meaning of
+the Federal Law of the Russian Federation of 29 July 1998 No. 135-FZ (as amended) On Appraisal Activities in the Russian Federation. 8-10 Gasheka
+Street, 125047 Moscow. The Product is made available in Singapore through Citigroup Global Markets Singapore Pte. Ltd. (“CGMSPL”), a capital markets
+services license holder, and regulated by Monetary Authority of Singapore. Please contact CGMSPL at 8 Marina View, 21st Floor Asia Square Tower 1,
+Singapore 018960, in respect of any matters arising from, or in connection with, the analysis of this document. This report is intended for recipients who are
+accredited, expert and institutional investors as defined under the Securities and Futures Act (Cap. 289). The Product is made available by The Citigroup
+Private Bank in Singapore through Citibank, N.A., Singapore Branch, a licensed bank in Singapore that is regulated by Monetary Authority of Singapore.
+Please contact your Private Banker in Citibank N.A., Singapore Branch if you have any queries on or any matters arising from or in connection with this
+document. This report is intended for recipients who are accredited, expert and institutional investors as defined under the Securities and Futures Act (Cap.
+289). This report is distributed in Singapore by Citibank Singapore Ltd ("CSL") to selected Citigold/Citigold Private Clients. CSL provides no independent
+research or analysis of the substance or in preparation of this report. Please contact your Citigold//Citigold Private Client Relationship Manager in CSL if you
+have any queries on or any matters arising from or in connection with this report. This report is intended for recipients who are accredited investors as
+defined under the Securities and Futures Act (Cap. 289). Citigroup Global Markets (Pty) Ltd. is incorporated in the Republic of South Africa (company
+registration number 2000/025866/07) and its registered office is at 145 West Street, Sandton, 2196, Saxonwold. Citigroup Global Markets (Pty) Ltd. is
+regulated by JSE Securities Exchange South Africa, South African Reserve Bank and the Financial Services Board. The investments and services
+contained herein are not available to private customers in South Africa. The Product is made available in the Republic of China through Citigroup Global
+Markets Taiwan Securities Company Ltd. ("CGMTS"), 14 and 15F, No. 1, Songzhi Road, Taipei 110, Taiwan and/or through Citibank Securities (Taiwan)
+Company Limited ("CSTL"), 14 and 15F, No. 1, Songzhi Road, Taipei 110, Taiwan, subject to the respective license scope of each entity and the applicable
+laws and regulations in the Republic of China. CGMTS and CSTL are both regulated by the Securities and Futures Bureau of the Financial Supervisory
+Commission of Taiwan, the Republic of China. No portion of the Product may be reproduced or quoted in the Republic of China by the press or any third
+parties [without the written authorization of CGMTS and CSTL]. If the Product covers securities which are not allowed to be offered or traded in the Republic
+of China, neither the Product nor any information contained in the Product shall be considered as advertising the securities or making recommendation of
+the securities in the Republic of China. The Product is for informational purposes only and is not intended as an offer or solicitation for the purchase or sale
+of a security or financial products. Any decision to purchase securities or financial products mentioned in the Product must take into account existing public
+information on such security or the financial products or any registered prospectus. The Product is made available in Thailand through Citicorp Securities
+(Thailand) Ltd., which is regulated by the Securities and Exchange Commission of Thailand. 399 Interchange 21 Building, 18th Floor, Sukhumvit Road,
+Klongtoey Nua, Wattana ,Bangkok 10110, Thailand. The Product is made available in Turkey through Citibank AS which is regulated by Capital Markets
+Board. Tekfen Tower, Eski Buyukdere Caddesi # 209 Kat 2B, 23294 Levent, Istanbul, Turkey. In the U.A.E, these materials (the "Materials") are
+communicated by Citigroup Global Markets Limited, DIFC branch ("CGML"), an entity registered in the Dubai International Financial Center ("DIFC") and
+licensed and regulated by the Dubai Financial Services Authority ("DFSA") to Professional Clients and Market Counterparties only and should not be relied
+upon or distributed to Retail Clients. A distribution of the different Citi Research ratings distribution, in percentage terms for Investments in each sector
+covered is made available on request. Financial products and/or services to which the Materials relate will only be made available to Professional Clients
+and Market Counterparties. The Product is made available in United Kingdom by Citigroup Global Markets Limited, which is authorised by the Prudential
+Regulation Authority (“PRA”) and regulated by the Financial Conduct Authority (“FCA”) and the PRA. This material may relate to investments or services of
+a person outside of the UK or to other matters which are not authorised by the PRA nor regulated by the FCA and the PRA and further details as to where
+this may be the case are available upon request in respect of this material. Citigroup Centre, Canada Square, Canary Wharf, London, E14 5LB. The
+Product is made available in United States by Citigroup Global Markets Inc, which is a member of FINRA and registered with the US Securities and
+Exchange Commission. 388 Greenwich Street, New York, NY 10013. Unless specified to the contrary, within EU Member States, the Product is made
+12
+Citrix Systems, Inc. (CTXS)
+3 August 2017 Citi Research
+available by Citigroup Global Markets Limited, which is authorised by the PRA and regulated by the FCA and the PRA.
+The Product is not to be construed as providing investment services in any jurisdiction where the provision of such services would not be permitted.
+Subject to the nature and contents of the Product, the investments described therein are subject to fluctuations in price and/or value and investors may get
+back less than originally invested. Certain high-volatility investments can be subject to sudden and large falls in value that could equal or exceed the amount
+invested. Certain investments contained in the Product may have tax implications for private customers whereby levels and basis of taxation may be subject
+to change. If in doubt, investors should seek advice from a tax adviser. The Product does not purport to identify the nature of the specific market or other
+risks associated with a particular transaction. Advice in the Product is general and should not be construed as personal advice given it has been prepared
+without taking account of the objectives, financial situation or needs of any particular investor. Accordingly, investors should, before acting on the advice,
+consider the appropriateness of the advice, having regard to their objectives, financial situation and needs. Prior to acquiring any financial product, it is the
+client's responsibility to obtain the relevant offer document for the product and consider it before making a decision as to whether to purchase the product.
+Citi Research product may source data from dataCentral. dataCentral is a Citi Research proprietary database, which includes the Firm’s estimates, data
+from company reports and feeds from Thomson Reuters. The printed and printable version of the research report may not include all the information (e.g.,
+certain financial summary information and comparable company data) that is linked to the online version available on the Firm's proprietary electronic
+distribution platforms.
+© 2017 Citigroup Global Markets Inc. Citi Research is a division of Citigroup Global Markets Inc. Citi and Citi with Arc Design are trademarks and service
+marks of Citigroup Inc. and its affiliates and are used and registered throughout the world. All rights reserved. The research data in this report is not intended
+to be used for the purpose of (a) determining the price or amounts due in respect of one or more financial products or instruments and/or (b) measuring or
+comparing the performance of a financial product or a portfolio of financial instruments, and any such use is strictly prohibited without the prior written
+consent of Citi Research. Any unauthorized use, duplication, redistribution or disclosure of this report (the “Product”), including, but not limited to,
+redistribution of the Product by electronic mail, posting of the Product on a website or page, and/or providing to a third party a link to the Product, is
+prohibited by law and will result in prosecution. The information contained in the Product is intended solely for the recipient and may not be further distributed
+by the recipient to any third party. Where included in this report, MSCI sourced information is the exclusive property of Morgan Stanley Capital International
+Inc. (MSCI). Without prior written permission of MSCI, this information and any other MSCI intellectual property may not be reproduced, redisseminated or
+used to create any financial products, including any indices. This information is provided on an "as is" basis. The user assumes the entire risk of any use
+made of this information. MSCI, its affiliates and any third party involved in, or related to, computing or compiling the information hereby expressly disclaim
+all warranties of originality, accuracy, completeness, merchantability or fitness for a particular purpose with respect to any of this information. Without limiting
+any of the foregoing, in no event shall MSCI, any of its affiliates or any third party involved in, or related to, computing or compiling the information have any
+liability for any damages of any kind. MSCI, Morgan Stanley Capital International and the MSCI indexes are services marks of MSCI and its affiliates. The
+Firm accepts no liability whatsoever for the actions of third parties. The Product may provide the addresses of, or contain hyperlinks to, websites. Except to
+the extent to which the Product refers to website material of the Firm, the Firm has not reviewed the linked site. Equally, except to the extent to which the
+Product refers to website material of the Firm, the Firm takes no responsibility for, and makes no representations or warranties whatsoever as to, the data
+and information contained therein. Such address or hyperlink (including addresses or hyperlinks to website material of the Firm) is provided solely for your
+convenience and information and the content of the linked site does not in any way form part of this document. Accessing such website or following such link
+through the Product or the website of the Firm shall be at your own risk and the Firm shall have no liability arising out of, or in connection with, any such
+referenced website.
+ADDITIONAL INFORMATION IS AVAILABLE UPON REQUEST
+Prepared for Rong Lu (research email)
+13
+
