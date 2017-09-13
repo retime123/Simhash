@@ -66,6 +66,7 @@ def num10_to2_sys(num):
     num2 = num1.replace('0b', '')
     if len(num2) < 64:
         num2 = "0"*(64 - len(num2)) + num2
+        # num2 = num2.zfill(64)# 指定字符串长度，原字符串右对齐，不足前面填充0，超出指定长度的，以实际长度呈现！
     elif len(num2) > 64:
         print u'超出64位[error...]'
         return
